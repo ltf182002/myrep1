@@ -1,0 +1,4 @@
+spring:
+  profiles:
+    #设置环境：生产环境
+    active: prd
